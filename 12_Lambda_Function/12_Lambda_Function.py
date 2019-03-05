@@ -11,3 +11,6 @@ print(hasil)
 # misal, membuat anonymous function dengan lambda
 kali = lambda argumen: print(argumen)
 kali('test')
+
+kali = lambda x,y: x*y
+print(kali(3,4))
