@@ -9,6 +9,7 @@ print(Barang)
 # meng ekstend, si dompet, dompet nya ter iterable
 Barang.extend('dompet')
 print(Barang)
+# hasilnya jadi ['kunci', 'ember', 'jaket', 'ban', 'mobil', 'sepeda', 'd', 'o', 'm', 'p', 'e', 't'] 
 
 # insert data
 Barang.insert(3,'odong-odong')
