@@ -18,17 +18,41 @@ t9_1 = text9[0:4]
 t9_2 = text9[2:]
 
 print(text1)
-print(text2)
-print(text3)
-print(text4)
-print(text5)
-print(text6)
-print(text7)
-print(100*text8)
-print('kue' 'pukis')
-print(text1 + text2)
+# ini adalah teks
 
-# Slice itu motong kata
+print(text2)
+# ini hari jum'at
+
+print(text3)
+# ini hari jum'at
+
+print(text4)
+# otong berkata, "dimana hey"
+
+print(text5)
+# otong berkata, "dimana hey"
+
+print(text6)
+# otong berkata, "dimana hey"
+# entong menjawab, 'disini...........'
+
+print(text7)
+# C:\iniFolder
+
+print(10*text8)
+# wkwkwkwkwkwkwkwkwkwk
+
+print('kue' 'pukis')
+# kuepukis
+
+print(text1 + text2)
+# ini adalah teksini hari jum'at
+
 print(t9_0)
+# n
+
 print(t9_1)
+# pisa
+
 print(t9_2)
+# sang goreng
